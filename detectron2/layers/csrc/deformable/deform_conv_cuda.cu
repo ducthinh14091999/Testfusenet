@@ -15,6 +15,9 @@
 #include <cmath>
 #include <vector>
 
+#ifndef AT_CHECK
+#define AT_CHECK TORCH_CHECK 
+#endif
 namespace detectron2 {
 
 void deformable_im2col(

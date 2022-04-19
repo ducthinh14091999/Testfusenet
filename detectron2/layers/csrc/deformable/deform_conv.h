@@ -2,6 +2,9 @@
 #pragma once
 #include <torch/extension.h>
 
+#ifndef AT_CHECK
+#define AT_CHECK TORCH_CHECK 
+#endif
 namespace detectron2 {
 
 #ifdef WITH_CUDA

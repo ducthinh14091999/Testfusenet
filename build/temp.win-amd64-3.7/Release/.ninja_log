@@ -1,0 +1,25 @@
+# ninja log v5
+324	4748	6717768340329024	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/cuda_version.obj	64aeb3131a425260
+66	22395	6717768514688970	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.obj	eba0c1c629bafa5d
+270	23178	6717768524198993	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/ROIAlign/ROIAlign_cpu.obj	591c84971282b951
+75	23815	6717768524698971	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.obj	fb4104080e766e3e
+83	24380	6717768530889010	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.obj	4398e9e1b82d758e
+2	24621	6717768533598972	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/vision.obj	88a55b9ddeaf5809
+90	27924	6717768571998978	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.obj	b284be7fb8017227
+305	28316	6717768575928962	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/ROIAlign/ROIAlign_cuda.obj	4fa57fba4adcc0fd
+315	28459	6717768576308960	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.obj	9baecea2fc85f868
+288	28618	6717768578578977	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.obj	e8f500143f923fb8
+297	28896	6717768581878952	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.obj	c31abb6f60557015
+278	47851	6717768771270169	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/deformable/deform_conv_cuda.obj	db378fcfc6458522
+252	4270	6717768985466461	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/cuda_version.obj	e0306e2cc0328d
+145	24041	6717769181896469	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.obj	ad6f2d0e2af8b5a1
+155	24248	6717769181676489	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/ROIAlign/ROIAlign_cpu.obj	5f6e8e1314726fe
+203	24422	6717769181856460	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.obj	7dba3d7f18c76e29
+219	24704	6717769181936461	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.obj	96f5389ba95bba32
+231	26158	6717769204616453	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/ROIAlign/ROIAlign_cuda.obj	2d17316aa4387310
+193	26551	6717769208596471	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/vision.obj	2d1f3d4598fe288b
+240	26779	6717769209286454	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.obj	f4e932c0ac0b604b
+163	27028	6717769208976463	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.obj	b112ba5e5fe67d60
+174	27210	6717769214156504	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.obj	9698683f2ef55b72
+182	27560	6717769218936871	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.obj	95f92457bad87603
+80	44787	6717769391122962	F:/project_2/TextFuseNet/build/temp.win-amd64-3.7/Release/project_2/TextFuseNet/detectron2/layers/csrc/deformable/deform_conv_cuda.obj	daeb900a8d391f6d
